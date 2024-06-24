@@ -1,0 +1,29 @@
+<head>
+    <title>Post Scheduler - Social Media Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="acc-man.html">Account Management</a></li>
+                <li><a href="post-sched.html">Post Scheduler</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="post-sched">
+            <h1>Post Scheduler</h1>
+            <form id="post-form">
+                <textarea id="post-content" placeholder="Enter content"></textarea>
+                <input type="datetime-local" id="post-time">
+                <button type="submit">Schedule Post</button>
+            </form>
+            <div id="scheduled-posts"></div>
+        </section>
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>
