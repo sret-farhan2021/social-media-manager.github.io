@@ -14,6 +14,7 @@ The Social Media Manager allows you to:
 - **Post Scheduling:** Plan and schedule your posts in advance.
 - **Analytics Dashboard:** Track your social media performance with detailed analytics.
 - **Account Management:** Handle multiple accounts with ease.
+- **Easy Integration:** Can be easily with integrated with API of various social media accounts.
 
 ## Getting Started
 
